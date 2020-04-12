@@ -10,6 +10,6 @@ mongoose.connect(MONGODB_URI, {
   useUnifiedTopology: true,
 });
 
-const mongoIsOn = app.start(port, MONGODB_URI);
+app.start(port, MONGODB_URI);
 
 // mongoose.disconnect();
