@@ -13,4 +13,4 @@ mongoose.connect(MONGODB_URI, {
 
 app.start(port, MONGODB_URI);
 
-// mongoose.disconnect();
+mongoose.disconnect();
