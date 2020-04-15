@@ -6,12 +6,13 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/henok-401-javascript/lab-09-express/pull/3)
+- [submission PR](https://github.com/henok-401-javascript/lab-09-express/pull/4)
 
 ### DOCUMENTATION
 
 [Swagger Hub](http://localhost:3000/api-docs#/)
-[heroku]()
+[heroku](https://lab-09-express.herokuapp.com/)
+[npm publish](https://www.npmjs.com/package/lab-09-express)
 
 ### Setup
 
