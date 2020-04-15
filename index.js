@@ -2,8 +2,8 @@
 const app = require('./lib/server.js');
 const mongoose = require('mongoose');
 require('dotenv').config();
-const MONGODB_URI = 'mongodb://localhost:27017/app';
-const port = process.env.port || 3000;
+const MONGODB_URI = process.env.MONGODB_URI;
+const port = process.env.PORT || 3000;
 
 mongoose.connection.once('open', () => {
   console.log('mongo db is on');
