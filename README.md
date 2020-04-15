@@ -37,4 +37,4 @@
 
 #### UML
 
-![UML Diagram](./assets/images/lab-09.jpg)
+![UML Diagram](./assets/images/lab-09-express.jpg)
